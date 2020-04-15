@@ -1,0 +1,3 @@
+rootProject.name='LukieooDataHelperLibrary'
+include ':app'
+include ':lukieoodatehelper'
