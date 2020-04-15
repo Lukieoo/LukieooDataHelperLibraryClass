@@ -1,7 +1,7 @@
 # LukieooDataHelperLibraryClass
 [![](https://jitpack.io/v/Lukieoo/LukieooDataHelperLibraryClass.svg)](https://jitpack.io/#Lukieoo/LukieooDataHelperLibraryClass)
 
-My Own Librrary to Convert Date A library that will contain functions for converting different types in the current version of Conversja Dates for expression and vice versa.
+My Own Librrary to Convert Date A library that will contain functions for converting different types in the current version of convertion Dates .
  
  Version 1.0<br>
  Date to String/ISO<br>
