@@ -49,10 +49,12 @@ open class LukieooFormatter {
 
         //Parse Date to Custom String Format
         fun DateCustomToStringISO(date: Date?, format: String?): String? {
-            val tz = TimeZone.getTimeZone("UTC")
-            val df: DateFormat = SimpleDateFormat(format)
-            df.timeZone = tz
-            return df.format(date)
+//            val tz = TimeZone.getTimeZone("UTC")
+//            val df: DateFormat = SimpleDateFormat(format)
+//            df.timeZone = tz
+            val dateFormat: DateFormat = SimpleDateFormat(format)
+            val strDate = dateFormat.format(date)
+            return strDate
         }
 
         //currentDate
